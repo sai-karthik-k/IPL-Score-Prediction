@@ -45,3 +45,9 @@ The project implements a neural network model using the Keras library. The model
 **Contributing**
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
+
+
+
+**Run Video**
+
+![Project Run](project_run.gif)
