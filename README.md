@@ -10,6 +10,7 @@ This repository contains a machine learning model built using Keras for predicti
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Streamlit App](#streamlit-app)
+- [Screenshot](#Screenshot)
 
 ## Overview
 
@@ -63,3 +64,7 @@ The detailed training process is included in the `IPL_Score_Prediction.py` file.
 ## Streamlit App
 
 The app is built using Streamlit, which provides an intuitive interface for users to interact with the model and predict match scores. The `app.py` file contains the Streamlit application code.
+
+## Screenshot
+![Uploading image.png…]()
+
