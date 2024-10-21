@@ -10,8 +10,6 @@ This repository contains a machine learning model built using Keras for predicti
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Streamlit App](#streamlit-app)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -34,7 +32,7 @@ The goal of this project is to predict the total score a team might achieve in a
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/ipl-score-prediction.git
+    git clone https://github.com/sai-karthik-k/IPL-Score-Prediction.git
     ```
 
 2. Install the required dependencies:
