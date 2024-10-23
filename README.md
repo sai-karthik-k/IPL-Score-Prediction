@@ -1,4 +1,4 @@
-# IPL Score Prediction Model
+# IPL Score Prediction Model [🔗](https://ipl-score-prediction-karthik.streamlit.app/)
 
 This repository contains a machine learning model built using Keras for predicting the scores in Indian Premier League (IPL) matches. The model is trained using historical IPL match data and is deployed using a Streamlit application for user interaction.
 
@@ -66,5 +66,5 @@ The detailed training process is included in the `IPL_Score_Prediction.py` file.
 The app is built using Streamlit, which provides an intuitive interface for users to interact with the model and predict match scores. The `app.py` file contains the Streamlit application code.
 
 ## Screenshot
-![Uploading image.png…]()
+![app screenshot](Screen.jpg)
 
