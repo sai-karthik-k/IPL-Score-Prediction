@@ -66,5 +66,5 @@ The detailed training process is included in the `IPL_Score_Prediction.py` file.
 The app is built using Streamlit, which provides an intuitive interface for users to interact with the model and predict match scores. The `app.py` file contains the Streamlit application code.
 
 ## Screenshot
-![app screenshot](Screen.jpg)
+![app screenshot](Screen.png)
 
